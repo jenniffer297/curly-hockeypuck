@@ -8,7 +8,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <name><![CDATA[美山→嵐山]]></name>
 <atom:author><atom:name><![CDATA[製作工具：Google 我的足跡 Android 版]]></atom:name></atom:author>
 <Style id="track">
-<LineStyle><color>508278F0</color><width>4</width></LineStyle>
+<LineStyle><color>50D278B4</color><width>6</width></LineStyle>
 <IconStyle>
 <scale>1.3</scale>
 <Icon><href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href></Icon>
